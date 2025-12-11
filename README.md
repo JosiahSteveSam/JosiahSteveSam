@@ -1,38 +1,62 @@
-👋 Hey there, It's me **Josh**
+👋 Hi, I'm Josh
+Software Engineer | Python Developer | AI/ML Engineer
 
-- 👀 I’m interested in leveraging data science to solve real-world problems, particularly in data analytics and machine learning.
-- 🌱 I’m currently pursuing an integrated master's in **Computational Statistics and Data Analytics** and working towards launching my career as a **Data Scientist**.
-- 💞️ I’m looking to collaborate on projects that involve **data visualization**, **predictive modeling**, and **NLP** applications.
-- 📫 You can reach me via (josiahsteve29@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m fascinated by the power of statistics in finding hidden patterns in data!
+I build intelligent systems, scalable backend services, and end-to-end AI/ML applications.
+With a strong foundation in Python, machine learning, NLP, data engineering, and cloud deployment, I focus on designing production-ready solutions that are clean, modular, and optimized for performance.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
+🚀 About Me
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+Software Engineer with hands-on experience in AI/ML, NLP, backend development, and distributed systems
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+Skilled in Python, FastAPI, Data Pipelines, Machine Learning, and Large Language Model (LLM) applications
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+Experience deploying real-world AI systems using AWS, Docker, CI/CD pipelines
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+Passionate about writing production-grade code and building scalable AI-powered products
 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
+Strong focus on DSA, algorithms, and designing efficient solutions
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin-rig_
+Always exploring advanced topics like OCR, embeddings, RAG, user-persona modeling, and LLM agents
 
+🛠️ Tech Stack & Tools
+Languages
 
+Python (primary), JavaScript
+
+SQL (PostgreSQL, MySQL, MongoDB)
+
+AI/ML & NLP
+
+Scikit-learn, TensorFlow, PyTorch
+
+Transformers, Hugging Face, Pegasus, LayoutLMv3
+
+Surya OCR, Tesseract OCR
+
+LlamaIndex, LangChain
+
+Word embeddings, cosine similarity, clustering, PCA
+
+Developer Tools
+
+VS Code
+
+Git, GitHub
+
+📈 What I’m Learning Now
+
+Advanced Data Structures & Algorithms
+
+System Design for scalable AI systems
+
+Building SaaS-ready AI products
+
+Optimizing LLM pipelines for production
+
+✨ Current Goals
+
+Build enterprise-level LLM features (RAG, agents, embeddings)
+
+Improve backend scalability with event-driven architectures
+
+Land a Data Scientist / AI Engineer role in top companies
