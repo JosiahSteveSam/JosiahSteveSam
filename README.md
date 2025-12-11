@@ -1,13 +1,9 @@
 # **Hi, I'm Josh**  
-### **Software Engineer | Python Developer | AI/ML Engineer**
-
-I build intelligent systems, scalable backend services, and end-to-end AI/ML applications.  
-My work focuses on designing production-grade, modular, and optimized solutions across Python, machine learning, NLP, and distributed backend systems.
-
+### **Software Engineer | Python Developer | Backend | Data & AI**
 ---
 
 ## **About Me**
-          I’m a software engineer specializing in Python, AI/ML, and backend development, with hands-on experience building scalable systems and production-ready machine learning solutions. My work spans NLP, LLM applications, FastAPI services, and distributed architectures deployed using AWS, Docker, and CI/CD pipelines. I focus on writing clean, modular, and efficient code while continuously exploring areas like OCR automation, embeddings, RAG workflows, and intelligent agent systems. I bring a strong foundation in algorithms and system design to every project I build.  
+I’m a software engineer specializing in Python, AI/ML, and backend development, with hands-on experience building scalable systems and production-ready machine learning solutions. My work spans NLP, LLM applications, FastAPI services, and distributed architectures deployed using AWS, Docker, and CI/CD pipelines. I focus on writing clean, modular, and efficient code while continuously exploring areas like OCR automation, embeddings, RAG workflows, and intelligent agent systems. I bring a strong foundation in algorithms and system design to every project I build.  
 
 ---
 
