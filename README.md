@@ -1,49 +1,46 @@
-👋 Hi, I'm Josh
+Hi, I'm Josh
 Software Engineer | Python Developer | AI/ML Engineer
 
 I build intelligent systems, scalable backend services, and end-to-end AI/ML applications.
-With a strong foundation in Python, machine learning, NLP, data engineering, and cloud deployment, I focus on designing production-ready solutions that are clean, modular, and optimized for performance.
+My work focuses on designing production-grade, modular, and optimized solutions across Python, machine learning, NLP, and distributed backend systems.
 
-🚀 About Me
+About Me
 
-Software Engineer with hands-on experience in AI/ML, NLP, backend development, and distributed systems
+Software Engineer with hands-on experience in AI/ML, NLP, Backend Engineering, and Distributed Systems
 
-Skilled in Python, FastAPI, Data Pipelines, Machine Learning, and Large Language Model (LLM) applications
+Specialized in Python, FastAPI, Machine Learning, LLM Applications, and Data Pipelines
 
-Experience deploying real-world AI systems using AWS, Docker, CI/CD pipelines
+Experience deploying real-world AI systems using AWS, Docker, and CI/CD pipelines
 
-Passionate about writing production-grade code and building scalable AI-powered products
+Strong engineering mindset: clean architecture, modular design, scalable systems
 
-Strong focus on DSA, algorithms, and designing efficient solutions
+Solid foundation in DSA and algorithmic problem solving
 
-Always exploring advanced topics like OCR, embeddings, RAG, user-persona modeling, and LLM agents
+Currently exploring:
 
-🛠️ Tech Stack & Tools
+OCR automation
+
+Vector embeddings & similarity search
+
+Retrieval-Augmented Generation (RAG)
+
+User-persona modeling
+
+LLM agents & workflow automation
+
+Tech Stack & Tools
 Languages
-
-Python (primary), JavaScript
-
-SQL (PostgreSQL, MySQL, MongoDB)
-
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /> </p>
 AI/ML & NLP
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="HuggingFace" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV (OCR-related)" /> </p>
 
-Scikit-learn, TensorFlow, PyTorch
+Additional ML stack: Scikit-learn, Transformers, Pegasus, LayoutLMv3, LlamaIndex, LangChain, Surya OCR, Tesseract OCR, embeddings, clustering, PCA.
 
-Transformers, Hugging Face, Pegasus, LayoutLMv3
-
-Surya OCR, Tesseract OCR
-
-LlamaIndex, LangChain
-
-Word embeddings, cosine similarity, clustering, PCA
-
+Backend & DevOps
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /> </p>
 Developer Tools
-
-VS Code
-
-Git, GitHub
-
-📈 What I’m Learning Now
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /> </p>
+What I’m Learning Now
 
 Advanced Data Structures & Algorithms
 
@@ -53,10 +50,14 @@ Building SaaS-ready AI products
 
 Optimizing LLM pipelines for production
 
-✨ Current Goals
+Current Goals
 
-Build enterprise-level LLM features (RAG, agents, embeddings)
+Build enterprise-grade LLM features (RAG, agents, embeddings)
 
 Improve backend scalability with event-driven architectures
 
-Land a Data Scientist / AI Engineer role in top companies
+Move into a full-time Data Scientist / AI Engineer role
+
+GitHub Stats
+![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
