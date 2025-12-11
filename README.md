@@ -7,17 +7,7 @@ My work focuses on designing production-grade, modular, and optimized solutions 
 ---
 
 ## **About Me**
-- Software Engineer with hands-on experience in **AI/ML**, **NLP**, **Backend Engineering**, and **Distributed Systems**
-- Specialized in **Python**, **FastAPI**, **Machine Learning**, **LLM Applications**, and **Data Pipelines**
-- Experience deploying real-world AI systems using **AWS**, **Docker**, and **CI/CD pipelines**
-- Strong engineering mindset: clean architecture, modular design, scalable systems
-- Solid foundation in **DSA** and algorithmic problem solving
-- Currently exploring:
-  - OCR automation  
-  - Vector embeddings & similarity search  
-  - Retrieval-Augmented Generation (RAG)  
-  - User-persona modeling  
-  - LLM agents & workflow automation  
+          I’m a software engineer specializing in Python, AI/ML, and backend development, with hands-on experience building scalable systems and production-ready machine learning solutions. My work spans NLP, LLM applications, FastAPI services, and distributed architectures deployed using AWS, Docker, and CI/CD pipelines. I focus on writing clean, modular, and efficient code while continuously exploring areas like OCR automation, embeddings, RAG workflows, and intelligent agent systems. I bring a strong foundation in algorithms and system design to every project I build.  
 
 ---
 
