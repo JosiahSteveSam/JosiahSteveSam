@@ -1,61 +1,38 @@
-# **Hi, I'm Josh**  
-### **Software Engineer | Python Developer | Backend | Data & AI**
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Josiah Steve Sam, Full Stack AI Engineer, Chennai, India" src="assets/header-light.svg" width="100%">
+</picture>
 
-## **About Me**
-I’m a software engineer specializing in Python, AI/ML, and backend development, with hands-on experience building scalable systems and production-ready machine learning solutions. My work spans NLP, LLM applications, FastAPI services, and distributed architectures deployed using AWS, Docker, and CI/CD pipelines. I focus on writing clean, modular, and efficient code while continuously exploring areas like OCR automation, embeddings, RAG workflows, and intelligent agent systems. I bring a strong foundation in algorithms and system design to every project I build.  
-
----
-
-## **Tech Stack & Tools**
-
-### **Languages**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/josiah-ds/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-161616?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-### **AI/ML & NLP**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="HuggingFace" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
-</p>
+I build AI products end to end: the agent, the retrieval it answers from, the API it runs on and the screen people use. Two-plus years of shipping them for international clients, mostly in Python and TypeScript.
 
-Additional ML Stack: Scikit-learn, Transformers, Pegasus, LayoutLMv3, LlamaIndex, LangChain, Surya OCR, Tesseract OCR, embeddings, clustering, PCA.
+### Right now
 
-### **Backend & DevOps**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-</p>
+- **At Credentech Solutions**, building Credentra Agents: AI agents a business sets up once and runs on its website, a chat page and WhatsApp.
+- **On the side**, an AI tutor for CBSE schools (freelance, in progress).
 
-### **Developer Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-</p>
+### Stack
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="AI: LangGraph, LangChain, RAG, hybrid retrieval and reranking, LiteLLM, guardrails, Langfuse, OpenAI API, Hugging Face, PyTorch, OCR and document AI. Backend: Python, FastAPI, Node.js, Express. Frontend: React, Next.js, JavaScript, TypeScript, Vite. Data: PostgreSQL, Qdrant, Redis, MongoDB, Supabase. Ops: AWS, Docker, Nginx, GPU inference, CI/CD." src="assets/stack-light.svg" width="100%">
+</picture>
 
-## **What I’m Learning Now**
-- Advanced **Data Structures & Algorithms**
-- **System Design** for scalable AI systems
-- Building SaaS-ready AI products
-- Optimizing **LLM pipelines** for production environments  
+### Selected work
 
----
+- **Credentra Agents**: B2B AI agent builder. ~90% grounded answers in ~2s; a reranker lifted hit@1 from 0.77 to 0.95.
+- **APB Bank KYC OCR**: reads Lao ID documents for a bank's digital KYC. ~95% field accuracy, 500+ docs a day, GPU-to-CPU failover.
+- **Taco Bell Thailand invoices**: supplier invoices to accounting data on a self-hosted 2B Thai OCR model. 96% field accuracy, 0 silent errors.
+- **[TourExc](https://tourexc.com)**: booking platform for a Thailand travel agency. Live.
 
-## **Current Goals**
-- Build enterprise-grade LLM features (RAG, agents, embeddings)
-- Improve backend scalability with **event-driven architectures**
-- Move into a full-time **Data Scientist / AI Engineer** role
+<sub>Client work, so the code is private.</sub>
 
----
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="profile/snake-light.svg" width="100%">
+</picture>
